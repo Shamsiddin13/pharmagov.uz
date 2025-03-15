@@ -1,0 +1,1 @@
+const t=r=>r?r.toString().replace(/[^\d]/g,"").replace(/\B(?=(\d{3})+(?!\d))/g," "):"",n=r=>r&&parseInt(r.toString().replace(/[^\d]/g,""),10)||0,a=r=>r&&parseFloat(r.toString().replace(/[^\d.]/g,""))||0;export{t as f,a as p,n as u};

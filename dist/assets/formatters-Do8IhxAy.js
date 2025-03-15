@@ -1,0 +1,1 @@
+function n(i,t="UZS"){return`${Number(i).toLocaleString("en-US",{minimumFractionDigits:0,maximumFractionDigits:0})} ${t}`}function r(i){return Number(i).toLocaleString("en-US",{minimumFractionDigits:0,maximumFractionDigits:0})}export{r as a,n as f};
