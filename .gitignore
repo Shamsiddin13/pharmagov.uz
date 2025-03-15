@@ -1,0 +1,11 @@
+# Ignore build artifacts
+dist/
+node_modules/
+dist/index.html
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+.DS_Store
